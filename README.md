@@ -1,4 +1,4 @@
-Rainfall-Prediction-Classifier
+#Rainfall-Prediction-Classifier
 Overview
 This project aims to predict whether it will rain the following day using various machine learning algorithms. The dataset used is sourced from the Australian Government's Bureau of Meteorology. The project demonstrates the application of several classification algorithms, including Linear Regression, K-Nearest Neighbors (KNN), Decision Trees, Logistic Regression, and Support Vector Machines (SVM).
 
